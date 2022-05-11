@@ -40,7 +40,7 @@ To cancel a flight use the command: `python  -m flight_resy cancel -s B2  -n 1`.
 for used flags by calling help
 
 
-#Testing
+# Testing
 
 To run the tests simply run the following command `python3.8  -m pytest tests`, it will run the tests
 specified in the requirenment file
